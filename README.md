@@ -62,7 +62,7 @@ This project implements a **RESTful API** built with **Spring Boot** for a **Mes
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mennaadel194/omnichannel-messaging-api.git
+   git clone https://github.com/mennaadel194/Omnichannel_Messaging_API.git
    cd omnichannel-messaging-api
    ```
 
