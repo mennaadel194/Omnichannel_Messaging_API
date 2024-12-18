@@ -40,7 +40,7 @@ This project implements a **RESTful API** built with **Spring Boot** for a **Mes
 
 ## Technologies Used
 
-- **Java 11+**
+- **Java 18**
 - **Spring Boot** (for building RESTful API)
 - **Spring Security** (for JWT authentication)
 - **Spring Data JPA** (for database interaction)
